@@ -10,8 +10,13 @@
 
 ## A little more about me...  
 
-I like programing a lot!
-I'm studying how to write codes efficiently. Currently I'm researching on Autonomous Driving.
+I like academic research a lot!
+
+I like writing papers and conduct research in multidisciplinary areas (computer science + sociology + data science + multimedia + communication science)!
+
+Also, I like programing!
+I'm studying how to write codes efficiently for academic research purposes. 
+
 
 
 ### My Skills
