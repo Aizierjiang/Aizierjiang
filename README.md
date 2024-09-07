@@ -12,10 +12,8 @@
 
 **I like academic research a lot!**
 
-**I like writing papers and conduct research in multidisciplinary areas** (computer science + sociology + data science + multimedia + communication science)!
+**I mainly conduct research in multidisciplinary areas** (computer science + sociology + multimedia + communication science)!
 
-Also, I like programing!
-I'm studying how to do experiments efficiently for academic research purposes. 
 
 
 
